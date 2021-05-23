@@ -5,7 +5,7 @@
         <div class="sm:flex sm:mt-8">
             <div class="mt-8 sm:mt-0 sm:w-full sm:px-8 flex flex-col md:flex-row justify-center">
                 <div class="flex flew-row px-10">
-                    <img src='../assets/spotify.png' style="width: 50px; height: 50px">
+                    <img src='../../assets/spotify.png' style="width: 50px; height: 50px">
             <a class=" p-2 text-white text-2xl hover:text-green-600" href="#">
                     Spotify
              </a>
@@ -81,7 +81,7 @@
     </g>
   </g>
 </svg>
-        <img src="../assets/google-play-badge.png" style="width: 126.50751px; height:50px">
+        <img src="../../assets/google-play-badge.png" style="width: 126.50751px; height:50px">
 
 
                 </div>
@@ -90,11 +90,11 @@
     </div>
     <div class="container mx-auto p-6">
  <div class='text-sm text-gray-400 mx-auto container flex items-center justify-center'>
-        <span class="px-6"><a>Légal</a></span>
-        <span class="px-6"><a>Centre de Confidentalité </a></span>
-        <span class="px-6"><a>Protection de données</a></span>
-        <span class="px-6"><a>Cookies</a></span>
-         <span class="px-6"><a>À propos des pubs</a></span>
+        <span class="px-6"><a href='#'>Légal</a></span>
+        <span class="px-6"><a href='#'>Centre de Confidentalité </a></span>
+        <span class="px-6"><a href='#'>Protection de données</a></span>
+        <span class="px-6"><a href='#'>Cookies</a></span>
+         <span class="px-6"><a href='#'>À propos des pubs</a></span>
         
 
     <div class="flex flex-col px-44">

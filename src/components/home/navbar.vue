@@ -4,7 +4,7 @@
   
   <div class="flex items-center justify-between mb-4 md:mb-0 divide-x-2 divide-green-500 text-white">
     <h1 class=" flex items-center justify-between leading-none text-2xl text-white">
-      <img src='../assets/spotify.png' style="width: 50px">
+      <img src='../../assets/spotify.png' style="width: 50px">
       <a class=" p-2 text-grey-darkest hover:text-green-600" href="#">
         Spotify
       </a>
@@ -41,7 +41,7 @@
     
           <div class="flex items-center">
 
-               <img src='../assets/user.png' style="width: 50px">
+               <img src='../../assets/user.png' style="width: 50px">
 <li class="md:ml-4 px-5">
  <a class="border-t block no-underline   hover:text-green-600 md:border-none md:p-0 " href="#">
           Profil

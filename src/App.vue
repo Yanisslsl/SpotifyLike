@@ -15,10 +15,11 @@
 </template>
 
 <script>
-import Footer from './components/footer.vue'
-import Navbar from './components/navbar.vue'
+import Footer from './components/home/footer.vue'
+import Navbar from './components/home/navbar.vue'
+import ScreenPage from './components/home/ScreenPage.vue'
 
-import ScreenPage from './components/ScreenPage.vue'
+
 
 
 
@@ -30,7 +31,7 @@ import ScreenPage from './components/ScreenPage.vue'
 
 
 export default {
-  components: { ScreenPage, Navbar, Footer},
+  components: {Navbar, ScreenPage, Footer  },
   name: 'App',
   
 }
